@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_distance_options">
+        <item>@string/pref_distance_label_pieton</item>
+        <item>@string/pref_distance_label_voiture</item>
+    </string-array>
+
+    <string-array name="pref_distance_values">
+        <item>@string/pref_distance_pieton</item>
+        <item>@string/pref_distance_voiture</item>
+    </string-array>
+
+    <string-array name="geolocalisation">
+        <item>@string/longitude</item>
+        <item>@string/latitude</item>
+    </string-array>
+</resources>
